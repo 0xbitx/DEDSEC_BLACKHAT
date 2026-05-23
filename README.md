@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/9506f946-7b21-45fb-8f66-65b4897db5d0", width="400", height="400">
+<img src="https://github.com/user-attachments/assets/9fcb7d81-0b9c-4551-a94b-bed9ae526307", width="400", height="400">
 </p>
 
 <h1 align="center">BLACKHAT</h1> <h4 align="center">OPSEC BROWSER - Your digital ghost. No cookies. No cache. No fingerprints.</h4>
